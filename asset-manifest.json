@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/ada-kerja/static/css/main.6f667cdf.css",
-    "main.js": "/ada-kerja/static/js/main.472c46e3.js",
+    "main.js": "/ada-kerja/static/js/main.258dd03b.js",
     "static/js/488.05ce8055.chunk.js": "/ada-kerja/static/js/488.05ce8055.chunk.js",
     "static/media/adker.png": "/ada-kerja/static/media/adker.c73468dec4c0e366110e.png",
     "index.html": "/ada-kerja/index.html",
     "main.6f667cdf.css.map": "/ada-kerja/static/css/main.6f667cdf.css.map",
-    "main.472c46e3.js.map": "/ada-kerja/static/js/main.472c46e3.js.map",
+    "main.258dd03b.js.map": "/ada-kerja/static/js/main.258dd03b.js.map",
     "488.05ce8055.chunk.js.map": "/ada-kerja/static/js/488.05ce8055.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6f667cdf.css",
-    "static/js/main.472c46e3.js"
+    "static/js/main.258dd03b.js"
   ]
 }
